@@ -37,12 +37,13 @@ export default function Page() {
 
           <Image
         src="/hero-desktop.png"
+        //src="https://www.housebeautiful.com/lifestyle/gardening/a45768436/lotus-flower-real-meaning/"
         width={1000}
         height={760}
         className="hidden md:block"
         alt="Screenshots of the dashboard project showing desktop version"
       />
-      
+
         </div>
       </div>
     </main>
